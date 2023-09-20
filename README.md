@@ -1,4 +1,11 @@
-### Hi there 👋
+## Portuguese 
+### Olá, Githubians 👋🏻
+Sou Gabriel Coelho Soares, popularmente conhecido como "Batata" - apelido que me acompanha há mais de 10 anos. Nestes 10 anos fiz dois cursos técnicos voltados à programação Web e, embora a vida tenha me levado para outros caminhos nos últimos 5 anos, eu gostei tanto de programar que nunca me denvincilhei completamente. Seguindo meus desejos, voltei à estudar. 
+
+
+## English
+### Hello, fellow Githubians👋🏻
+I'm Gabriel Coelho Soares, also known as "Batata" (which means "Potato" in Portuguese), a nickname that people call me for over 10 years. Meanwhile this time, I've completed two technical courses in Web Development, and, although the life took me on other paths, programming was always a close friend of mine, that I kept using it, even on my current job (using the knowledge acquired to program in VBA). Following my desire to get back on Development, I've got back to studies, being approved on FATEC Mogi Mirim in my Freshman year. 
 
 <!--
 **GabrielCoelho/GabrielCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
