@@ -5,7 +5,7 @@ Sou Gabriel Coelho Soares, popularmente conhecido como "Batata" - apelido que me
 
 ## English
 ### Hello, fellow Githubians👋🏻
-I'm Gabriel Coelho Soares, also known as "Batata" (which means "Potato" in Portuguese), a nickname that people call me for over 10 years. Meanwhile this time, I've completed two technical courses in Web Development, and, although the life took me on other paths, programming was always a close friend of mine, that I kept using it, even on my current job (using the knowledge acquired to program in VBA). Following my desire to get back on Development, I've got back to studies, being approved on FATEC Mogi Mirim in my Freshman year. 
+I'm Gabriel Coelho Soares, also known as "Batata" (which means "Potato" in Portuguese), a nickname that people call me for over 10 years. During this time, I've completed two technical courses in Web Development, and, although the life took me on other paths, programming was always a close friend of mine, that I kept using it, even on my current job (using the knowledge acquired to program in VBA). Following my desire to get back on Development, I've got back to studies, being approved on FATEC Mogi Mirim in my Freshman year. 
 
 ## Knowledge
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
