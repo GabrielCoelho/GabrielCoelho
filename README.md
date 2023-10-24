@@ -16,7 +16,7 @@ I'm Gabriel Coelho Soares, also known as "Batata" (which means "Potato" in Portu
 ![Linux/CLI](https://img.shields.io/badge/Bash-89e051?style=for-the-badge&logo=bash&logoColor=white)
 
 ![Coding](https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCoelho&show_icons=true&theme=gruvbox&locale=en&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true)
 <!--
 **GabrielCoelho/GabrielCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
