@@ -21,7 +21,6 @@ I'm Gabriel Coelho Soares, also known as "Batata" (which means "Potato" in Portu
 ![Rust](https://img.shields.io/badge/Rust-B38F6B?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=white)
 
-![Coding](https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCoelho&show_icons=true&theme=gruvbox&locale=en&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true)
 
 <!--
