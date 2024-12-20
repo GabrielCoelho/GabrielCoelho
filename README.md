@@ -17,7 +17,7 @@ I'm Gabriel Coelho Soares, also known as "Batata" (which means "Potato" in Portu
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![VueJs](https://img.shields.io/badge/VueJS-41b883?style=for-the-badge&logo=vuejs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Linux/CLI](https://img.shields.io/badge/Bash-89e051?style=for-the-badge&logo=bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B38F6B?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=white)
