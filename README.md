@@ -13,7 +13,7 @@ Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC. 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true)
 
 - 📫 How to reach me:
-- - [LinkedIn](https://www.linkedin.ceoelhosb/)
+- - [LinkedIn](https://www.linkedin.com/in/gabrielcoelhosb/)
 
 <!--
 **GabrielCoelho/GabrielCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
