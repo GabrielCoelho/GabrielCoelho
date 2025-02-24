@@ -1,31 +1,20 @@
-# Hello there
+## Olá, sou o Gabriel Coelho Soares 👋
 
-Welcome to my Github - I'm Gabriel Coelho Soares.
+✨ Estudante de Análise e Desenvolvimento de Sistemas na FATEC Arthur de 
+Azevedo (Mogi Mirim) . \  
+Entusiasta sobre Desenvolvimento Back-end e aprendendo RUST, Java e NodeJS
+Também gosto de brincar no Front-end, com HTML, CSS, JS e VueJS. 
 
-## English
+- 👨🏻‍💼 **Atuação Profissional**
+  - Estagiário na Maestro Sistemas 
+  - Monitor de Laboratório de Informática no Colégio Pense
+  - Desenvolvedor Web na Agência Diamond `<est 2018>`
 
-I'm currently studying System Analysis and Development @ FATEC. Passionate about Back-end Development learning RUST, Java and NodeJS.
+- 📫 Entre em contato:
+  - [LinkedIn](https://www.linkedin.com/in/gabrielcoelhosb/)
+  - [Instagram](https://instagram.com/orepertorioliturgico)
 
-## Portuguese
 
-Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC. Entusiasta sobre Desenvolvimento Back-end e aprendendo RUST, Java e NodeJS
+![GabrielCoelho's Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true)
-
-- 📫 How to reach me:
-- - [LinkedIn](https://www.linkedin.com/in/gabrielcoelhosb/)
-
-<!--
-**GabrielCoelho/GabrielCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoelho&layout=compact)
