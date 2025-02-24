@@ -17,4 +17,5 @@ Também gosto de brincar no Front-end, com HTML, CSS, JS e VueJS.
 
 ![GabrielCoelho's Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoelho&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCoelho&show_icons=true&theme=gruvbox&locale=en&layout=compact)
+
