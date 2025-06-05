@@ -19,15 +19,13 @@ Também me aventuro no Front-end, com HTML, CSS, JS, React e VueJS.
 - Disposto a colaborações em projetos Open Source.
 - 📫 Entre em contato:
   - [LinkedIn](https://www.linkedin.com/in/gabrielcoelhosb/)
-  - [Instagram](https://instagram.com/orepertorioliturgico)
+  - [Instagram](https://instagram.com/gabrielcoelho.soares)
 
 ## Github Metrics
 
 <p align="center">
-
-![GabrielCoelho's Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCoelho&show_icons=true&theme=gruvbox&locale=en&layout=compact)
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielcoelho&theme=gruvbox&show_icons=true&count_private=true" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCoelho&show_icons=true&theme=gruvbox&locale=en&layout=compact" />
 </p>
 
 ---
